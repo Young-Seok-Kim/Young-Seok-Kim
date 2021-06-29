@@ -1,4 +1,9 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+주니어 안드로이드 앱 개발자입니다~
+
+주 사용언어는 Kotlin입니다.
+
 
 <!--
 **Young-Seok-Kim/Young-Seok-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
