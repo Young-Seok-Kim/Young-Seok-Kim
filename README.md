@@ -4,6 +4,9 @@
 
 주 사용언어는 Kotlin입니다.
 
+독서기록앱 YoungsBook을 만들어봤습니다
+-> 설치경로 https://play.google.com/store/apps/details?id=com.youngsbook
+
 
 <!--
 **Young-Seok-Kim/Young-Seok-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
