@@ -7,7 +7,7 @@
 * Kotlin, C, C++
 * AWS (EC2, RDS)
 * MySql, Oracle, Mybatis
-* FireBase, Docker, 
+* FireBase, Docker
 * Git, SVN
 
 
