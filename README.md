@@ -4,6 +4,13 @@
 
 주 사용언어는 Kotlin입니다.
 
+* Kotlin, C, C++
+* AWS (EC2, RDS)
+* MySql, Oracle, Mybatis
+* FireBase, Docker, 
+* Git, SVN
+
+
 독서기록앱 YoungsBook을 만들어봤습니다
 -> 설치경로 https://play.google.com/store/apps/details?id=com.youngsbook
 
