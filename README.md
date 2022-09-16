@@ -12,7 +12,10 @@
 
 
 독서기록앱 YoungsBook을 만들어봤습니다
--> 설치경로 https://play.google.com/store/apps/details?id=com.youngsbook
+
+-> 설치경로 : https://play.google.com/store/apps/details?id=com.youngsbook
+
+-> GitHub 링크 : https://github.com/Young-Seok-Kim/YoungsBook
 
 
 <!--
