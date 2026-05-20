@@ -28,7 +28,7 @@
 * **연차매니저 (2026.04 / Play Store 런칭)**
   - Flutter(Riverpod) + OAuth 2.0 기반 구글 캘린더 연동 직장인 연차 관리 서비스
 * **함께, 이길 (2026.02 / Play Store 런칭)**
-  - Google Maps SDK 기반 실시간 산책 경로 기록 및 보안 아키텍처 구축 서비스
+  - Google Maps SDK 기반 실시간 산책 경로 기록 및 주변 사람들과 공유 서비스
 * **드럼 박자 앱 (2025.08 / Play Store 런칭)**
   - Handler/Looper, ToneGenerator 기반 정밀 메트로놈 및 박자 제어 도구
 * **Youngs-Fishing (2022.11 / 1인 개발 / 서비스 종료)**
